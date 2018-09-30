@@ -1,2 +1,0 @@
-# reactreduxtest
-Created with CodeSandbox
